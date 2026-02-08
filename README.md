@@ -1,10 +1,10 @@
 ### hr-kenexa-form-automation
 ### HR Operations
-### Offer Form Automation (Kenexa)
+### Offer Form Automation (IBM Kenexa)
 
 ### Overview
 
-Python + Selenium automation to create and submit **Offer Forms** in the Kenexa recruitment system using data from Excel.
+Python + Selenium automation to create and submit **Offer Forms** in the IBM Kenexa recruitment system using data from Excel.
 
 Built to eliminate manual data entry and speed up offer creation for multiple candidates.
 
